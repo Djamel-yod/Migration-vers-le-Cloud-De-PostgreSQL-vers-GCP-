@@ -23,6 +23,20 @@ Ce projet met en œuvre des pipelines ETL Python pour extraire, transformer et c
 <img width="954" alt="Capture4" src="https://github.com/user-attachments/assets/0ce10086-d7a9-4a94-a65a-8724910e381d">
 
 
+# Outils
+
+<img width="165" alt="PostgreSQL" src="https://github.com/user-attachments/assets/1f17986f-1b2d-4b46-a8fa-e1abd16bb9e0">
+
+<img width="165" alt="Capture_Python2" src="https://github.com/user-attachments/assets/9677d4d9-1e8b-40e7-95c6-62baee160746">
+
+<img width="165" alt="Capture6" src="https://github.com/user-attachments/assets/9dbf2657-dbd1-4cf7-8850-91ef6d7f1e48">
+
+
+<a href="#">#PostgreSQL</a>
+<a href="#">#Python</a>
+<a href="#"> #Google Cloud Platform</a>
+
+
 
 
 
