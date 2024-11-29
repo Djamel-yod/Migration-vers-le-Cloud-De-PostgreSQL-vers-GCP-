@@ -11,3 +11,7 @@ Ce projet met en œuvre des pipelines ETL Python pour extraire, transformer et c
 ## Résultats
 
 
+<img width="958" alt="Capture1" src="https://github.com/user-attachments/assets/10750c8d-003c-4be4-b704-b7c3e16219e8">
+
+
+<img width="161" alt="Capture2" src="https://github.com/user-attachments/assets/b7325863-550b-4006-a33b-454bff1ba064">
