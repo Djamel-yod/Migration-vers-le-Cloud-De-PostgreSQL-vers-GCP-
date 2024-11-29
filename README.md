@@ -1,11 +1,3 @@
-<style>
-#capture2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 161px; /* Adjust width if needed */
-}
-</style>
 
 # Migration de données d'une base PostgreSQL vers le cloud (Google Cloud Platform)
 
@@ -22,5 +14,7 @@ Ce projet met en œuvre des pipelines ETL Python pour extraire, transformer et c
 
 <img width="958" alt="Capture1" src="https://github.com/user-attachments/assets/10750c8d-003c-4be4-b704-b7c3e16219e8">
 
+<img width="946" alt="Capture3" src="https://github.com/user-attachments/assets/d59588f2-e00e-4390-ae07-08b212c91312">
 
-<img width="161" alt="Capture2" src="https://github.com/user-attachments/assets/b7325863-550b-4006-a33b-454bff1ba064">
+
+
